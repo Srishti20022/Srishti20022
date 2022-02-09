@@ -19,10 +19,9 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<a href="https://www.linkedin.com/in/srishti-gupta-7250b8203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
+<a align = "center" href="https://www.linkedin.com/in/srishti-gupta-7250b8203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti2002&show_icons=true&locale=en&layout=compact" alt="srishti2002" /></p> -->
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=srishti20022&show_icons=true&theme=light)
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti20022&show_icons=true&locale=en&layout=compact" alt="srishti20022" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti20022&" alt="srishti2002" /></p>
