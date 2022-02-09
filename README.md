@@ -1,4 +1,8 @@
-### Hi there, I'm Srishti
+ <!-- welcome message -->
+ <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+  
+ <h3>Glad to see you here!</h3>
+  <!-- retro visitor counter -->
 <!-- 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -19,6 +23,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti2002&show_icons=true&locale=en&layout=compact" alt="srishti2002" /></p> -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=srishti2002&show_icons=true&theme=light)
+![My github stats](https://github-readme-stats.vercel.app/api?username=srishti20022&show_icons=true&theme=light)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti2002&" alt="srishti2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti20022&" alt="srishti2002" /></p>
