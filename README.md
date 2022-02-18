@@ -24,4 +24,4 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=srishti20022&show_icons=true&theme=light)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti20022&show_icons=true&locale=en&layout=compact" alt="srishti20022" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti20022&" alt="srishti2002" /></p>
+<p><img align="center " src="https://github-readme-streak-stats.herokuapp.com/?user=srishti20022&" alt="srishti20022" /></p>
