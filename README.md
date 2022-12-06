@@ -4,9 +4,9 @@
  <h3>Glad to see you here!</h3>
 
 
-- 🎓 I am a 2nd year Engineering student from <a href="https://www.igdtuw.ac.in/">IGDTUW</a>
-- 💻 I’m currently learning Data Science along with Machine Learning
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🎓 I am a 3rd year Engineering student from <a href="https://www.igdtuw.ac.in/">IGDTUW</a>
+- 💻 I’m currently exploring Deep Learning
+- 🥅 I am a former STEP intern @GOOGLE
 - ⚡ Fun fact: I love to draw and listen to retro bollywood songs
 
 ### Connect with me:
