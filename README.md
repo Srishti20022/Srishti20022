@@ -12,8 +12,3 @@
 ### Connect with me:
 
 <a align = "center" href="https://www.linkedin.com/in/srishti-gupta-7250b8203/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/timonchristiansen/" alt="LinkedIn Badge"></a>
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Srishti20022)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti20022&layout=compact" alt="srishti20022" /></p>
-<p><img align="center " src="https://github-readme-streak-stats.herokuapp.com/?user=srishti20022&" alt="srishti20022" /></p>
