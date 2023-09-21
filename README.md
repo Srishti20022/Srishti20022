@@ -4,10 +4,9 @@
  <h3>Glad to see you here!</h3>
 
 
-- 🎓 I am a 3rd year Engineering student from <a href="https://www.igdtuw.ac.in/">IGDTUW</a>
+- 🎓 I am a 4rth year Engineering student from <a href="https://www.igdtuw.ac.in/">IGDTUW</a>
 - 💻 I’m currently exploring Deep Learning
-- 🥅 I am a former STEP intern @GOOGLE
-- ⚡ Fun fact: I love to draw and listen to retro bollywood songs
+- 🥅 I am a former SWE intern'23 @ GOOGLE and STEP intern'22 @GOOGLE
 
 ### Connect with me:
 
